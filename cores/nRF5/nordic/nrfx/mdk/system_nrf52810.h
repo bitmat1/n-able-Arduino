@@ -27,7 +27,7 @@ NOTICE: This file has been modified by Nordic Semiconductor ASA.
 extern "C" {
 #endif
 
-#include <stdint.h>
+#include <system_nrf.h>
 
 
 extern uint32_t SystemCoreClock;    /*!< System Clock Frequency (Core Clock)  */
