@@ -1,4 +1,4 @@
-# n-able Arduino core (with nrf52810 added)
+# n-able Arduino core
 
 An Arduino Core for ARM based BLE boards supported by the NimBLE stack.
 
@@ -34,6 +34,9 @@ This Arduino Core does **not** contain any BLE functionality. It has been design
  * [Adafruit Feather nRF52840 Sense](https://www.adafruit.com/product/4516)
  * [Adafruit ItsyBitsy nRF52840 Express](https://www.adafruit.com/product/4481)
  * [Ebyte E104-BT5040U](https://www.ebyte.com/en/product-view-news.html?id=1185)
+
+### nRF52810
+ * [Generic nRF52810 MCU](https://www.nordicsemi.com/Products/nRF52810)
 
 ### nRF52833
  * [Generic nRF52833 MCU](https://www.nordicsemi.com/Products/nRF52833)
