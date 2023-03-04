@@ -1,4 +1,4 @@
-# n-able Arduino core
+# n-able Arduino core (with nrf52810 added)
 
 An Arduino Core for ARM based BLE boards supported by the NimBLE stack.
 
